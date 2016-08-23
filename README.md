@@ -1,2 +1,5 @@
 # Classification-and-Regression
-Linear Discriminant Analysis (LDA) and Quadratic Discriminant Analysis (QDA), Experiment with Linear Regression, Experiment with Ridge Regression, Using Gradient Descent for Ridge Regression Learning, Non-Linear Regression
+- Implemented Linear Discriminant Analysis (LDA) and Quadratic Discriminant Analysis (QDA)
+- Performed experiment with Linear Regression, Ridge Regression
+- Used Gradient Descent for Ridge Regression Learning, 
+- Performed Non-Linear Regression
